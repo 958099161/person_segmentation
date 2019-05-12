@@ -1,0 +1,785 @@
+epoch_loss--       1         tensor(0.1080, device='cuda:0')
+epoch_loss--       2         tensor(0.1107, device='cuda:0')
+epoch_loss--       3         tensor(0.1087, device='cuda:0')
+epoch_loss--       4         tensor(0.1094, device='cuda:0')
+epoch_loss--       5         tensor(0.1090, device='cuda:0')
+epoch_loss--       6         tensor(0.1078, device='cuda:0')
+epoch_loss--       7         tensor(0.1090, device='cuda:0')
+epoch_loss--       8         tensor(0.1087, device='cuda:0')
+epoch_loss--       9         tensor(0.1101, device='cuda:0')
+epoch_loss--       10         tensor(0.1065, device='cuda:0')
+epoch_loss--       11         tensor(0.1066, device='cuda:0')
+epoch_loss--       12         tensor(0.1082, device='cuda:0')
+epoch_loss--       13         tensor(0.1055, device='cuda:0')
+epoch_loss--       14         tensor(0.1057, device='cuda:0')
+epoch_loss--       15         tensor(0.1070, device='cuda:0')
+epoch_loss--       16         tensor(0.1049, device='cuda:0')
+epoch_loss--       17         tensor(0.1078, device='cuda:0')
+epoch_loss--       18         tensor(0.1078, device='cuda:0')
+epoch_loss--       19         tensor(0.1047, device='cuda:0')
+epoch_loss--       20         tensor(0.1047, device='cuda:0')
+epoch_loss--       21         tensor(0.1056, device='cuda:0')
+epoch_loss--       22         tensor(0.1044, device='cuda:0')
+epoch_loss--       23         tensor(0.1064, device='cuda:0')
+epoch_loss--       24         tensor(0.1051, device='cuda:0')
+epoch_loss--       25         tensor(0.1035, device='cuda:0')
+epoch_loss--       26         tensor(0.1065, device='cuda:0')
+epoch_loss--       27         tensor(0.1041, device='cuda:0')
+epoch_loss--       28         tensor(0.1038, device='cuda:0')
+epoch_loss--       29         tensor(0.1035, device='cuda:0')
+epoch_loss--       30         tensor(0.1037, device='cuda:0')
+epoch_loss--       31         tensor(0.1014, device='cuda:0')
+epoch_loss--       32         tensor(0.1013, device='cuda:0')
+epoch_loss--       33         tensor(0.1011, device='cuda:0')
+epoch_loss--       34         tensor(0.1021, device='cuda:0')
+epoch_loss--       35         tensor(0.1015, device='cuda:0')
+epoch_loss--       36         tensor(0.1007, device='cuda:0')
+epoch_loss--       37         tensor(0.1019, device='cuda:0')
+epoch_loss--       38         tensor(0.1005, device='cuda:0')
+epoch_loss--       39         tensor(0.0993, device='cuda:0')
+epoch_loss--       40         tensor(0.1028, device='cuda:0')
+epoch_loss--       41         tensor(0.1010, device='cuda:0')
+epoch_loss--       42         tensor(0.1002, device='cuda:0')
+epoch_loss--       43         tensor(0.0997, device='cuda:0')
+epoch_loss--       44         tensor(0.0982, device='cuda:0')
+epoch_loss--       45         tensor(0.1014, device='cuda:0')
+epoch_loss--       46         tensor(0.0996, device='cuda:0')
+epoch_loss--       47         tensor(0.0967, device='cuda:0')
+epoch_loss--       48         tensor(0.0976, device='cuda:0')
+epoch_loss--       49         tensor(0.0970, device='cuda:0')
+epoch_loss--       50         tensor(0.0977, device='cuda:0')
+epoch_loss--       51         tensor(0.0956, device='cuda:0')
+epoch_loss--       52         tensor(0.0979, device='cuda:0')
+epoch_loss--       53         tensor(0.0980, device='cuda:0')
+epoch_loss--       54         tensor(0.0953, device='cuda:0')
+epoch_loss--       55         tensor(0.0975, device='cuda:0')
+epoch_loss--       56         tensor(0.0975, device='cuda:0')
+epoch_loss--       57         tensor(0.0958, device='cuda:0')
+epoch_loss--       58         tensor(0.0974, device='cuda:0')
+epoch_loss--       59         tensor(0.0964, device='cuda:0')
+epoch_loss--       60         tensor(0.0955, device='cuda:0')
+epoch_loss--       61         tensor(0.0976, device='cuda:0')
+epoch_loss--       62         tensor(0.0962, device='cuda:0')
+epoch_loss--       63         tensor(0.0951, device='cuda:0')
+epoch_loss--       64         tensor(0.0943, device='cuda:0')
+epoch_loss--       65         tensor(0.0951, device='cuda:0')
+epoch_loss--       66         tensor(0.0932, device='cuda:0')
+epoch_loss--       67         tensor(0.0944, device='cuda:0')
+epoch_loss--       68         tensor(0.0941, device='cuda:0')
+epoch_loss--       69         tensor(0.0949, device='cuda:0')
+epoch_loss--       70         tensor(0.0923, device='cuda:0')
+epoch_loss--       71         tensor(0.0940, device='cuda:0')
+epoch_loss--       72         tensor(0.0929, device='cuda:0')
+epoch_loss--       73         tensor(0.0917, device='cuda:0')
+epoch_loss--       74         tensor(0.0931, device='cuda:0')
+epoch_loss--       75         tensor(0.0914, device='cuda:0')
+epoch_loss--       76         tensor(0.0930, device='cuda:0')
+epoch_loss--       77         tensor(0.0920, device='cuda:0')
+epoch_loss--       78         tensor(0.0900, device='cuda:0')
+epoch_loss--       79         tensor(0.0934, device='cuda:0')
+epoch_loss--       80         tensor(0.0902, device='cuda:0')
+epoch_loss--       81         tensor(0.0919, device='cuda:0')
+epoch_loss--       82         tensor(0.0899, device='cuda:0')
+epoch_loss--       83         tensor(0.0924, device='cuda:0')
+epoch_loss--       84         tensor(0.0900, device='cuda:0')
+epoch_loss--       85         tensor(0.0879, device='cuda:0')
+epoch_loss--       86         tensor(0.0878, device='cuda:0')
+epoch_loss--       87         tensor(0.0912, device='cuda:0')
+epoch_loss--       88         tensor(0.0898, device='cuda:0')
+epoch_loss--       89         tensor(0.0900, device='cuda:0')
+epoch_loss--       90         tensor(0.0896, device='cuda:0')
+epoch_loss--       91         tensor(0.0896, device='cuda:0')
+epoch_loss--       92         tensor(0.0875, device='cuda:0')
+epoch_loss--       93         tensor(0.0884, device='cuda:0')
+epoch_loss--       94         tensor(0.0898, device='cuda:0')
+epoch_loss--       95         tensor(0.0876, device='cuda:0')
+epoch_loss--       96         tensor(0.0871, device='cuda:0')
+epoch_loss--       97         tensor(0.0859, device='cuda:0')
+epoch_loss--       98         tensor(0.0872, device='cuda:0')
+epoch_loss--       99         tensor(0.0875, device='cuda:0')
+epoch_loss--       100         tensor(0.0869, device='cuda:0')
+epoch_loss--       1         tensor(0.1213, device='cuda:0')
+epoch_loss--       2         tensor(0.1206, device='cuda:0')
+epoch_loss--       3         tensor(0.1221, device='cuda:0')
+epoch_loss--       4         tensor(0.1205, device='cuda:0')
+epoch_loss--       5         tensor(0.1178, device='cuda:0')
+epoch_loss--       6         tensor(0.1174, device='cuda:0')
+epoch_loss--       7         tensor(0.1157, device='cuda:0')
+epoch_loss--       8         tensor(0.1178, device='cuda:0')
+epoch_loss--       9         tensor(0.1138, device='cuda:0')
+epoch_loss--       10         tensor(0.1131, device='cuda:0')
+epoch_loss--       11         tensor(0.1129, device='cuda:0')
+epoch_loss--       12         tensor(0.1124, device='cuda:0')
+epoch_loss--       13         tensor(0.1134, device='cuda:0')
+epoch_loss--       14         tensor(0.1121, device='cuda:0')
+epoch_loss--       15         tensor(0.1120, device='cuda:0')
+epoch_loss--       16         tensor(0.1136, device='cuda:0')
+epoch_loss--       17         tensor(0.1136, device='cuda:0')
+epoch_loss--       18         tensor(0.1127, device='cuda:0')
+epoch_loss--       19         tensor(0.1115, device='cuda:0')
+epoch_loss--       20         tensor(0.1118, device='cuda:0')
+epoch_loss--       21         tensor(0.1107, device='cuda:0')
+epoch_loss--       22         tensor(0.1099, device='cuda:0')
+epoch_loss--       23         tensor(0.1096, device='cuda:0')
+epoch_loss--       24         tensor(0.1088, device='cuda:0')
+epoch_loss--       25         tensor(0.1094, device='cuda:0')
+epoch_loss--       26         tensor(0.1078, device='cuda:0')
+epoch_loss--       27         tensor(0.1066, device='cuda:0')
+epoch_loss--       28         tensor(0.1058, device='cuda:0')
+epoch_loss--       29         tensor(0.1076, device='cuda:0')
+epoch_loss--       30         tensor(0.1067, device='cuda:0')
+epoch_loss--       31         tensor(0.1082, device='cuda:0')
+epoch_loss--       32         tensor(0.1070, device='cuda:0')
+epoch_loss--       33         tensor(0.1068, device='cuda:0')
+epoch_loss--       34         tensor(0.1072, device='cuda:0')
+epoch_loss--       35         tensor(0.1056, device='cuda:0')
+epoch_loss--       36         tensor(0.1068, device='cuda:0')
+epoch_loss--       37         tensor(0.1026, device='cuda:0')
+epoch_loss--       38         tensor(0.1054, device='cuda:0')
+epoch_loss--       39         tensor(0.1061, device='cuda:0')
+epoch_loss--       40         tensor(0.1034, device='cuda:0')
+epoch_loss--       41         tensor(0.1037, device='cuda:0')
+epoch_loss--       42         tensor(0.1052, device='cuda:0')
+epoch_loss--       43         tensor(0.1050, device='cuda:0')
+epoch_loss--       44         tensor(0.1031, device='cuda:0')
+epoch_loss--       45         tensor(0.1030, device='cuda:0')
+epoch_loss--       46         tensor(0.1052, device='cuda:0')
+epoch_loss--       47         tensor(0.1034, device='cuda:0')
+epoch_loss--       48         tensor(0.1029, device='cuda:0')
+epoch_loss--       49         tensor(0.1026, device='cuda:0')
+epoch_loss--       1         tensor(0.1174, device='cuda:0')
+epoch_loss--       2         tensor(0.1128, device='cuda:0')
+epoch_loss--       3         tensor(0.1084, device='cuda:0')
+epoch_loss--       4         tensor(0.1079, device='cuda:0')
+epoch_loss--       5         tensor(0.1066, device='cuda:0')
+epoch_loss--       6         tensor(0.1068, device='cuda:0')
+epoch_loss--       7         tensor(0.1054, device='cuda:0')
+epoch_loss--       8         tensor(0.1048, device='cuda:0')
+epoch_loss--       9         tensor(0.1046, device='cuda:0')
+epoch_loss--       10         tensor(0.1037, device='cuda:0')
+epoch_loss--       11         tensor(0.1040, device='cuda:0')
+epoch_loss--       12         tensor(0.1034, device='cuda:0')
+epoch_loss--       13         tensor(0.1030, device='cuda:0')
+epoch_loss--       14         tensor(0.1009, device='cuda:0')
+epoch_loss--       15         tensor(0.1043, device='cuda:0')
+epoch_loss--       16         tensor(0.1025, device='cuda:0')
+epoch_loss--       17         tensor(0.1024, device='cuda:0')
+epoch_loss--       18         tensor(0.1034, device='cuda:0')
+epoch_loss--       19         tensor(0.1033, device='cuda:0')
+epoch_loss--       20         tensor(0.1018, device='cuda:0')
+epoch_loss--       21         tensor(0.0998, device='cuda:0')
+epoch_loss--       22         tensor(0.0987, device='cuda:0')
+epoch_loss--       23         tensor(0.0997, device='cuda:0')
+epoch_loss--       24         tensor(0.0982, device='cuda:0')
+epoch_loss--       25         tensor(0.0992, device='cuda:0')
+epoch_loss--       26         tensor(0.1000, device='cuda:0')
+epoch_loss--       27         tensor(0.1003, device='cuda:0')
+epoch_loss--       28         tensor(0.0991, device='cuda:0')
+epoch_loss--       29         tensor(0.0996, device='cuda:0')
+epoch_loss--       30         tensor(0.0984, device='cuda:0')
+epoch_loss--       31         tensor(0.0988, device='cuda:0')
+epoch_loss--       32         tensor(0.0981, device='cuda:0')
+epoch_loss--       33         tensor(0.0972, device='cuda:0')
+epoch_loss--       34         tensor(0.0963, device='cuda:0')
+epoch_loss--       35         tensor(0.0999, device='cuda:0')
+epoch_loss--       36         tensor(0.0982, device='cuda:0')
+epoch_loss--       37         tensor(0.0972, device='cuda:0')
+epoch_loss--       38         tensor(0.0979, device='cuda:0')
+epoch_loss--       39         tensor(0.0994, device='cuda:0')
+epoch_loss--       40         tensor(0.0969, device='cuda:0')
+epoch_loss--       41         tensor(0.0966, device='cuda:0')
+epoch_loss--       42         tensor(0.0965, device='cuda:0')
+epoch_loss--       43         tensor(0.0962, device='cuda:0')
+epoch_loss--       44         tensor(0.0976, device='cuda:0')
+epoch_loss--       45         tensor(0.0970, device='cuda:0')
+epoch_loss--       46         tensor(0.0966, device='cuda:0')
+epoch_loss--       47         tensor(0.0958, device='cuda:0')
+epoch_loss--       48         tensor(0.0952, device='cuda:0')
+epoch_loss--       49         tensor(0.0967, device='cuda:0')
+epoch_loss--       50         tensor(0.0963, device='cuda:0')
+epoch_loss--       51         tensor(0.0963, device='cuda:0')
+epoch_loss--       52         tensor(0.0965, device='cuda:0')
+epoch_loss--       53         tensor(0.0961, device='cuda:0')
+epoch_loss--       54         tensor(0.0954, device='cuda:0')
+epoch_loss--       55         tensor(0.0955, device='cuda:0')
+epoch_loss--       56         tensor(0.0955, device='cuda:0')
+epoch_loss--       57         tensor(0.0948, device='cuda:0')
+epoch_loss--       58         tensor(0.0936, device='cuda:0')
+epoch_loss--       59         tensor(0.0948, device='cuda:0')
+epoch_loss--       60         tensor(0.0952, device='cuda:0')
+epoch_loss--       61         tensor(0.0950, device='cuda:0')
+epoch_loss--       62         tensor(0.0964, device='cuda:0')
+epoch_loss--       63         tensor(0.0947, device='cuda:0')
+epoch_loss--       64         tensor(0.0941, device='cuda:0')
+epoch_loss--       65         tensor(0.0934, device='cuda:0')
+epoch_loss--       66         tensor(0.0930, device='cuda:0')
+epoch_loss--       67         tensor(0.0944, device='cuda:0')
+epoch_loss--       68         tensor(0.0957, device='cuda:0')
+epoch_loss--       69         tensor(0.0959, device='cuda:0')
+epoch_loss--       70         tensor(0.0948, device='cuda:0')
+epoch_loss--       71         tensor(0.0942, device='cuda:0')
+epoch_loss--       72         tensor(0.0927, device='cuda:0')
+epoch_loss--       73         tensor(0.0942, device='cuda:0')
+epoch_loss--       74         tensor(0.0949, device='cuda:0')
+epoch_loss--       75         tensor(0.0933, device='cuda:0')
+epoch_loss--       76         tensor(0.0925, device='cuda:0')
+epoch_loss--       77         tensor(0.0925, device='cuda:0')
+epoch_loss--       78         tensor(0.0929, device='cuda:0')
+epoch_loss--       79         tensor(0.0929, device='cuda:0')
+epoch_loss--       80         tensor(0.0938, device='cuda:0')
+epoch_loss--       81         tensor(0.0906, device='cuda:0')
+epoch_loss--       82         tensor(0.0925, device='cuda:0')
+epoch_loss--       83         tensor(0.0941, device='cuda:0')
+epoch_loss--       84         tensor(0.0943, device='cuda:0')
+epoch_loss--       85         tensor(0.0936, device='cuda:0')
+epoch_loss--       86         tensor(0.0926, device='cuda:0')
+epoch_loss--       87         tensor(0.0927, device='cuda:0')
+epoch_loss--       88         tensor(0.0919, device='cuda:0')
+epoch_loss--       89         tensor(0.0920, device='cuda:0')
+epoch_loss--       90         tensor(0.0920, device='cuda:0')
+epoch_loss--       91         tensor(0.0933, device='cuda:0')
+epoch_loss--       92         tensor(0.0929, device='cuda:0')
+epoch_loss--       93         tensor(0.0917, device='cuda:0')
+epoch_loss--       94         tensor(0.0934, device='cuda:0')
+epoch_loss--       95         tensor(0.0913, device='cuda:0')
+epoch_loss--       96         tensor(0.0920, device='cuda:0')
+epoch_loss--       97         tensor(0.0920, device='cuda:0')
+epoch_loss--       98         tensor(0.0914, device='cuda:0')
+epoch_loss--       99         tensor(0.0920, device='cuda:0')
+epoch_loss--       100         tensor(0.0934, device='cuda:0')
+epoch_loss--       101         tensor(0.0918, device='cuda:0')
+epoch_loss--       102         tensor(0.0923, device='cuda:0')
+epoch_loss--       103         tensor(0.0905, device='cuda:0')
+epoch_loss--       104         tensor(0.0930, device='cuda:0')
+epoch_loss--       105         tensor(0.0908, device='cuda:0')
+epoch_loss--       106         tensor(0.0900, device='cuda:0')
+epoch_loss--       107         tensor(0.0902, device='cuda:0')
+epoch_loss--       108         tensor(0.0895, device='cuda:0')
+epoch_loss--       109         tensor(0.0891, device='cuda:0')
+epoch_loss--       110         tensor(0.0919, device='cuda:0')
+epoch_loss--       111         tensor(0.0910, device='cuda:0')
+epoch_loss--       112         tensor(0.0919, device='cuda:0')
+epoch_loss--       113         tensor(0.0889, device='cuda:0')
+epoch_loss--       114         tensor(0.0914, device='cuda:0')
+epoch_loss--       115         tensor(0.0902, device='cuda:0')
+epoch_loss--       116         tensor(0.0912, device='cuda:0')
+epoch_loss--       117         tensor(0.0907, device='cuda:0')
+epoch_loss--       118         tensor(0.0908, device='cuda:0')
+epoch_loss--       119         tensor(0.0902, device='cuda:0')
+epoch_loss--       120         tensor(0.0910, device='cuda:0')
+epoch_loss--       121         tensor(0.0895, device='cuda:0')
+epoch_loss--       122         tensor(0.0900, device='cuda:0')
+epoch_loss--       123         tensor(0.0925, device='cuda:0')
+epoch_loss--       124         tensor(0.0904, device='cuda:0')
+epoch_loss--       125         tensor(0.0897, device='cuda:0')
+epoch_loss--       126         tensor(0.0900, device='cuda:0')
+epoch_loss--       127         tensor(0.0896, device='cuda:0')
+epoch_loss--       128         tensor(0.0895, device='cuda:0')
+epoch_loss--       129         tensor(0.0888, device='cuda:0')
+epoch_loss--       130         tensor(0.0898, device='cuda:0')
+epoch_loss--       131         tensor(0.0916, device='cuda:0')
+epoch_loss--       132         tensor(0.0913, device='cuda:0')
+epoch_loss--       133         tensor(0.0917, device='cuda:0')
+epoch_loss--       134         tensor(0.0876, device='cuda:0')
+epoch_loss--       135         tensor(0.0884, device='cuda:0')
+epoch_loss--       136         tensor(0.0896, device='cuda:0')
+epoch_loss--       137         tensor(0.0891, device='cuda:0')
+epoch_loss--       138         tensor(0.0899, device='cuda:0')
+epoch_loss--       139         tensor(0.0896, device='cuda:0')
+epoch_loss--       140         tensor(0.0887, device='cuda:0')
+epoch_loss--       141         tensor(0.0897, device='cuda:0')
+epoch_loss--       142         tensor(0.0909, device='cuda:0')
+epoch_loss--       143         tensor(0.0893, device='cuda:0')
+epoch_loss--       144         tensor(0.0885, device='cuda:0')
+epoch_loss--       145         tensor(0.0884, device='cuda:0')
+epoch_loss--       146         tensor(0.0896, device='cuda:0')
+epoch_loss--       147         tensor(0.0886, device='cuda:0')
+epoch_loss--       148         tensor(0.0883, device='cuda:0')
+epoch_loss--       149         tensor(0.0893, device='cuda:0')
+epoch_loss--       150         tensor(0.0900, device='cuda:0')
+epoch_loss--       151         tensor(0.0883, device='cuda:0')
+epoch_loss--       152         tensor(0.0889, device='cuda:0')
+epoch_loss--       153         tensor(0.0901, device='cuda:0')
+epoch_loss--       154         tensor(0.0897, device='cuda:0')
+epoch_loss--       155         tensor(0.0873, device='cuda:0')
+epoch_loss--       156         tensor(0.0882, device='cuda:0')
+epoch_loss--       157         tensor(0.0880, device='cuda:0')
+epoch_loss--       158         tensor(0.0886, device='cuda:0')
+epoch_loss--       159         tensor(0.0885, device='cuda:0')
+epoch_loss--       160         tensor(0.0877, device='cuda:0')
+epoch_loss--       161         tensor(0.0878, device='cuda:0')
+epoch_loss--       162         tensor(0.0888, device='cuda:0')
+epoch_loss--       163         tensor(0.0868, device='cuda:0')
+epoch_loss--       164         tensor(0.0860, device='cuda:0')
+epoch_loss--       165         tensor(0.0866, device='cuda:0')
+epoch_loss--       166         tensor(0.0887, device='cuda:0')
+epoch_loss--       167         tensor(0.0896, device='cuda:0')
+epoch_loss--       168         tensor(0.0877, device='cuda:0')
+epoch_loss--       169         tensor(0.0883, device='cuda:0')
+epoch_loss--       170         tensor(0.0892, device='cuda:0')
+epoch_loss--       171         tensor(0.0879, device='cuda:0')
+epoch_loss--       172         tensor(0.0870, device='cuda:0')
+epoch_loss--       173         tensor(0.0870, device='cuda:0')
+epoch_loss--       174         tensor(0.0883, device='cuda:0')
+epoch_loss--       175         tensor(0.0883, device='cuda:0')
+epoch_loss--       176         tensor(0.0879, device='cuda:0')
+epoch_loss--       177         tensor(0.0862, device='cuda:0')
+epoch_loss--       178         tensor(0.0857, device='cuda:0')
+epoch_loss--       179         tensor(0.0870, device='cuda:0')
+epoch_loss--       180         tensor(0.0858, device='cuda:0')
+epoch_loss--       181         tensor(0.0871, device='cuda:0')
+epoch_loss--       182         tensor(0.0863, device='cuda:0')
+epoch_loss--       183         tensor(0.0885, device='cuda:0')
+epoch_loss--       184         tensor(0.0876, device='cuda:0')
+epoch_loss--       185         tensor(0.0875, device='cuda:0')
+epoch_loss--       186         tensor(0.0865, device='cuda:0')
+epoch_loss--       187         tensor(0.0878, device='cuda:0')
+epoch_loss--       188         tensor(0.0870, device='cuda:0')
+epoch_loss--       189         tensor(0.0861, device='cuda:0')
+epoch_loss--       190         tensor(0.0868, device='cuda:0')
+epoch_loss--       191         tensor(0.0875, device='cuda:0')
+epoch_loss--       192         tensor(0.0865, device='cuda:0')
+epoch_loss--       193         tensor(0.0861, device='cuda:0')
+epoch_loss--       194         tensor(0.0856, device='cuda:0')
+epoch_loss--       195         tensor(0.0854, device='cuda:0')
+epoch_loss--       196         tensor(0.0866, device='cuda:0')
+epoch_loss--       197         tensor(0.0871, device='cuda:0')
+epoch_loss--       198         tensor(0.0869, device='cuda:0')
+epoch_loss--       199         tensor(0.0881, device='cuda:0')
+epoch_loss--       200         tensor(0.0880, device='cuda:0')
+epoch_loss--       201         tensor(0.0855, device='cuda:0')
+epoch_loss--       202         tensor(0.0850, device='cuda:0')
+epoch_loss--       203         tensor(0.0863, device='cuda:0')
+epoch_loss--       204         tensor(0.0858, device='cuda:0')
+epoch_loss--       205         tensor(0.0849, device='cuda:0')
+epoch_loss--       206         tensor(0.0847, device='cuda:0')
+epoch_loss--       207         tensor(0.0857, device='cuda:0')
+epoch_loss--       208         tensor(0.0851, device='cuda:0')
+epoch_loss--       209         tensor(0.0845, device='cuda:0')
+epoch_loss--       210         tensor(0.0841, device='cuda:0')
+epoch_loss--       211         tensor(0.0862, device='cuda:0')
+epoch_loss--       212         tensor(0.0862, device='cuda:0')
+epoch_loss--       213         tensor(0.0866, device='cuda:0')
+epoch_loss--       214         tensor(0.0860, device='cuda:0')
+epoch_loss--       215         tensor(0.0855, device='cuda:0')
+epoch_loss--       216         tensor(0.0853, device='cuda:0')
+epoch_loss--       217         tensor(0.0855, device='cuda:0')
+epoch_loss--       218         tensor(0.0848, device='cuda:0')
+epoch_loss--       219         tensor(0.0850, device='cuda:0')
+epoch_loss--       220         tensor(0.0839, device='cuda:0')
+epoch_loss--       221         tensor(0.0858, device='cuda:0')
+epoch_loss--       222         tensor(0.0844, device='cuda:0')
+epoch_loss--       223         tensor(0.0832, device='cuda:0')
+epoch_loss--       224         tensor(0.0841, device='cuda:0')
+epoch_loss--       225         tensor(0.0848, device='cuda:0')
+epoch_loss--       226         tensor(0.0861, device='cuda:0')
+epoch_loss--       227         tensor(0.0849, device='cuda:0')
+epoch_loss--       228         tensor(0.0869, device='cuda:0')
+epoch_loss--       229         tensor(0.0837, device='cuda:0')
+epoch_loss--       230         tensor(0.0832, device='cuda:0')
+epoch_loss--       231         tensor(0.0841, device='cuda:0')
+epoch_loss--       232         tensor(0.0825, device='cuda:0')
+epoch_loss--       233         tensor(0.0849, device='cuda:0')
+epoch_loss--       234         tensor(0.0824, device='cuda:0')
+epoch_loss--       235         tensor(0.0848, device='cuda:0')
+epoch_loss--       236         tensor(0.0842, device='cuda:0')
+epoch_loss--       1         tensor(0.2195, device='cuda:0')
+epoch_loss--       2         tensor(0.1908, device='cuda:0')
+epoch_loss--       3         tensor(0.1998, device='cuda:0')
+epoch_loss--       4         tensor(0.2042, device='cuda:0')
+epoch_loss--       5         tensor(0.1984, device='cuda:0')
+epoch_loss--       6         tensor(0.2063, device='cuda:0')
+epoch_loss--       7         tensor(0.2036, device='cuda:0')
+epoch_loss--       8         tensor(0.1916, device='cuda:0')
+epoch_loss--       9         tensor(0.1938, device='cuda:0')
+epoch_loss--       10         tensor(0.1989, device='cuda:0')
+epoch_loss--       11         tensor(0.1921, device='cuda:0')
+epoch_loss--       12         tensor(0.1913, device='cuda:0')
+epoch_loss--       13         tensor(0.1889, device='cuda:0')
+epoch_loss--       14         tensor(0.1901, device='cuda:0')
+epoch_loss--       15         tensor(0.1937, device='cuda:0')
+epoch_loss--       16         tensor(0.1888, device='cuda:0')
+epoch_loss--       17         tensor(0.1892, device='cuda:0')
+epoch_loss--       18         tensor(0.1954, device='cuda:0')
+epoch_loss--       19         tensor(0.1863, device='cuda:0')
+epoch_loss--       20         tensor(0.1848, device='cuda:0')
+epoch_loss--       21         tensor(0.1836, device='cuda:0')
+epoch_loss--       22         tensor(0.1814, device='cuda:0')
+epoch_loss--       23         tensor(0.1875, device='cuda:0')
+epoch_loss--       24         tensor(0.1816, device='cuda:0')
+epoch_loss--       25         tensor(0.1842, device='cuda:0')
+epoch_loss--       26         tensor(0.1839, device='cuda:0')
+epoch_loss--       27         tensor(0.1830, device='cuda:0')
+epoch_loss--       28         tensor(0.1742, device='cuda:0')
+epoch_loss--       29         tensor(0.1814, device='cuda:0')
+epoch_loss--       30         tensor(0.1686, device='cuda:0')
+epoch_loss--       31         tensor(0.1816, device='cuda:0')
+epoch_loss--       32         tensor(0.1847, device='cuda:0')
+epoch_loss--       33         tensor(0.1805, device='cuda:0')
+epoch_loss--       34         tensor(0.1734, device='cuda:0')
+epoch_loss--       35         tensor(0.1798, device='cuda:0')
+epoch_loss--       36         tensor(0.1748, device='cuda:0')
+epoch_loss--       37         tensor(0.1780, device='cuda:0')
+epoch_loss--       38         tensor(0.1813, device='cuda:0')
+epoch_loss--       39         tensor(0.1717, device='cuda:0')
+epoch_loss--       40         tensor(0.1693, device='cuda:0')
+epoch_loss--       41         tensor(0.1762, device='cuda:0')
+epoch_loss--       42         tensor(0.1711, device='cuda:0')
+epoch_loss--       43         tensor(0.1713, device='cuda:0')
+epoch_loss--       44         tensor(0.1842, device='cuda:0')
+epoch_loss--       45         tensor(0.1701, device='cuda:0')
+epoch_loss--       46         tensor(0.1635, device='cuda:0')
+epoch_loss--       47         tensor(0.1672, device='cuda:0')
+epoch_loss--       48         tensor(0.1668, device='cuda:0')
+epoch_loss--       49         tensor(0.1683, device='cuda:0')
+epoch_loss--       50         tensor(0.1677, device='cuda:0')
+epoch_loss--       51         tensor(0.1576, device='cuda:0')
+epoch_loss--       52         tensor(0.1622, device='cuda:0')
+epoch_loss--       53         tensor(0.1599, device='cuda:0')
+epoch_loss--       54         tensor(0.1650, device='cuda:0')
+epoch_loss--       55         tensor(0.1671, device='cuda:0')
+epoch_loss--       56         tensor(0.1652, device='cuda:0')
+epoch_loss--       57         tensor(0.1628, device='cuda:0')
+epoch_loss--       58         tensor(0.1632, device='cuda:0')
+epoch_loss--       59         tensor(0.1565, device='cuda:0')
+epoch_loss--       60         tensor(0.1640, device='cuda:0')
+epoch_loss--       61         tensor(0.1517, device='cuda:0')
+epoch_loss--       62         tensor(0.1604, device='cuda:0')
+epoch_loss--       63         tensor(0.1552, device='cuda:0')
+epoch_loss--       64         tensor(0.1500, device='cuda:0')
+epoch_loss--       65         tensor(0.1580, device='cuda:0')
+epoch_loss--       66         tensor(0.1470, device='cuda:0')
+epoch_loss--       67         tensor(0.1397, device='cuda:0')
+epoch_loss--       68         tensor(0.1566, device='cuda:0')
+epoch_loss--       69         tensor(0.1507, device='cuda:0')
+epoch_loss--       70         tensor(0.1529, device='cuda:0')
+epoch_loss--       71         tensor(0.1556, device='cuda:0')
+epoch_loss--       72         tensor(0.1474, device='cuda:0')
+epoch_loss--       73         tensor(0.1479, device='cuda:0')
+epoch_loss--       74         tensor(0.1491, device='cuda:0')
+epoch_loss--       75         tensor(0.1453, device='cuda:0')
+epoch_loss--       76         tensor(0.1532, device='cuda:0')
+epoch_loss--       77         tensor(0.1393, device='cuda:0')
+epoch_loss--       78         tensor(0.1482, device='cuda:0')
+epoch_loss--       79         tensor(0.1408, device='cuda:0')
+epoch_loss--       80         tensor(0.1395, device='cuda:0')
+epoch_loss--       81         tensor(0.1470, device='cuda:0')
+epoch_loss--       82         tensor(0.1503, device='cuda:0')
+epoch_loss--       83         tensor(0.1388, device='cuda:0')
+epoch_loss--       84         tensor(0.1359, device='cuda:0')
+epoch_loss--       85         tensor(0.1410, device='cuda:0')
+epoch_loss--       86         tensor(0.1382, device='cuda:0')
+epoch_loss--       87         tensor(0.1385, device='cuda:0')
+epoch_loss--       88         tensor(0.1354, device='cuda:0')
+epoch_loss--       89         tensor(0.1348, device='cuda:0')
+epoch_loss--       90         tensor(0.1358, device='cuda:0')
+epoch_loss--       91         tensor(0.1314, device='cuda:0')
+epoch_loss--       92         tensor(0.1368, device='cuda:0')
+epoch_loss--       93         tensor(0.1358, device='cuda:0')
+epoch_loss--       94         tensor(0.1389, device='cuda:0')
+epoch_loss--       95         tensor(0.1354, device='cuda:0')
+epoch_loss--       96         tensor(0.1325, device='cuda:0')
+epoch_loss--       97         tensor(0.1289, device='cuda:0')
+epoch_loss--       98         tensor(0.1244, device='cuda:0')
+epoch_loss--       99         tensor(0.1273, device='cuda:0')
+epoch_loss--       100         tensor(0.1355, device='cuda:0')
+epoch_loss--       1         0.15234829211673037
+epoch_loss--       2         0.1609892084028203
+epoch_loss--       3         0.16170155958602794
+epoch_loss--       4         0.15841438557012394
+epoch_loss--       5         0.16434485184403655
+epoch_loss--       6         0.1561047846016983
+epoch_loss--       7         0.15430015062514585
+epoch_loss--       8         0.16487759974198982
+epoch_loss--       9         0.15918997453805356
+epoch_loss--       10         0.15323672269860777
+epoch_loss--       11         0.15445033359689453
+epoch_loss--       12         0.16306385445518615
+epoch_loss--       13         0.16328114633576368
+epoch_loss--       14         0.17035511702584763
+epoch_loss--       15         0.1528957543638758
+epoch_loss--       16         0.15386381340674318
+epoch_loss--       17         0.16286877551065465
+epoch_loss--       18         0.16019303164781093
+epoch_loss--       19         0.15928332493328057
+epoch_loss--       20         0.16091684988750438
+epoch_loss--       21         0.15956153909857282
+epoch_loss--       22         0.16130958378505403
+epoch_loss--       23         0.1568163941248347
+epoch_loss--       24         0.16075259921983026
+epoch_loss--       25         0.15434657896574314
+epoch_loss--       26         0.15834759345974403
+epoch_loss--       27         0.16648107679031146
+epoch_loss--       28         0.16036171441118177
+epoch_loss--       29         0.16127082835228299
+epoch_loss--       30         0.16621184190764976
+epoch_loss--       31         0.15868874557149676
+epoch_loss--       32         0.15697083803125844
+epoch_loss--       33         0.15507603938968037
+epoch_loss--       34         0.1595250686612754
+epoch_loss--       35         0.16135731667946704
+epoch_loss--       36         0.1592152700328027
+epoch_loss--       37         0.15463963840097283
+epoch_loss--       38         0.15253118081643177
+epoch_loss--       39         0.1586419896076853
+epoch_loss--       40         0.15274176416924587
+epoch_loss--       41         0.1551055788410643
+epoch_loss--       42         0.15109246740706814
+epoch_loss--       43         0.15299729952892174
+epoch_loss--       44         0.15564979644962393
+epoch_loss--       45         0.15087769492365682
+epoch_loss--       46         0.15757869680325826
+epoch_loss--       47         0.1566065290627388
+epoch_loss--       48         0.1472227825119663
+epoch_loss--       49         0.15302697295388476
+epoch_loss--       50         0.15183386992151365
+epoch_loss--       51         0.15571401983547134
+epoch_loss--       52         0.15550949175755818
+epoch_loss--       53         0.15703878119683112
+epoch_loss--       54         0.15535506889366876
+epoch_loss--       55         0.1583549441180576
+epoch_loss--       56         0.15280264495803525
+epoch_loss--       57         0.1598686199551954
+epoch_loss--       58         0.14549136433167198
+epoch_loss--       59         0.15738336386057897
+epoch_loss--       60         0.15363539467318751
+epoch_loss--       61         0.14849923194026032
+epoch_loss--       62         0.156399676653619
+epoch_loss--       63         0.1484852946056916
+epoch_loss--       64         0.15451186632338804
+epoch_loss--       65         0.15548789490478487
+epoch_loss--       66         0.15172740352896455
+epoch_loss--       67         0.15579805673120883
+epoch_loss--       68         0.14897415221642002
+epoch_loss--       69         0.14280533619201222
+epoch_loss--       70         0.159439610466123
+epoch_loss--       71         0.14929513866528155
+epoch_loss--       72         0.14619600588378434
+epoch_loss--       73         0.15086306900547716
+epoch_loss--       74         0.14081785532708366
+epoch_loss--       75         0.14752078857332374
+epoch_loss--       76         0.14702412224234865
+epoch_loss--       77         0.15038301398198065
+epoch_loss--       78         0.1434100233375455
+epoch_loss--       79         0.14933722329358703
+epoch_loss--       80         0.14632194254773492
+epoch_loss--       81         0.15489784054481945
+epoch_loss--       82         0.1560116826702421
+epoch_loss--       83         0.14623513633307939
+epoch_loss--       84         0.15178704016600936
+epoch_loss--       85         0.14965456964584967
+epoch_loss--       86         0.14905328980792826
+epoch_loss--       87         0.1533058670620187
+epoch_loss--       88         0.14849123406334044
+epoch_loss--       89         0.14300286963867684
+epoch_loss--       90         0.14461468498165997
+epoch_loss--       91         0.14448987124874568
+epoch_loss--       92         0.14246977804996336
+epoch_loss--       93         0.13874865597048505
+epoch_loss--       94         0.13690254865839077
+epoch_loss--       95         0.14453595880264292
+epoch_loss--       96         0.15645887348027274
+epoch_loss--       97         0.1523887844631276
+epoch_loss--       98         0.1489639145592912
+epoch_loss--       99         0.14577369532360437
+epoch_loss--       100         0.14851858252629685
+epoch_loss--       101         0.14463282921634163
+epoch_loss--       102         0.14394351502005664
+epoch_loss--       103         0.14294853192953447
+epoch_loss--       104         0.14455106290289388
+epoch_loss--       105         0.14293233434946392
+epoch_loss--       106         0.14763220354390982
+epoch_loss--       107         0.14774289086889536
+epoch_loss--       108         0.13975742875863187
+epoch_loss--       109         0.14880868362875793
+epoch_loss--       110         0.1462617507472206
+epoch_loss--       111         0.14186986714315872
+epoch_loss--       112         0.1395989347594424
+epoch_loss--       113         0.14579611847671076
+epoch_loss--       114         0.14919248138801358
+epoch_loss--       115         0.13939865929678605
+epoch_loss--       116         0.14737734591332488
+epoch_loss--       117         0.14287376977479496
+epoch_loss--       118         0.14049583300948143
+epoch_loss--       119         0.13750825047540588
+epoch_loss--       120         0.13833225141175257
+epoch_loss--       121         0.1397907902804998
+epoch_loss--       122         0.1473036383013851
+epoch_loss--       123         0.1366654619360313
+epoch_loss--       124         0.1398942969239558
+epoch_loss--       125         0.1458912283634416
+epoch_loss--       126         0.13737590309863273
+epoch_loss--       127         0.13820221084660997
+epoch_loss--       128         0.13790283117669458
+epoch_loss--       129         0.14047016686620042
+epoch_loss--       130         0.14017364182792152
+epoch_loss--       131         0.14484597744937902
+epoch_loss--       132         0.1401747318204885
+epoch_loss--       133         0.1390562888306265
+epoch_loss--       134         0.13497238003979095
+epoch_loss--       135         0.13896361911020721
+epoch_loss--       136         0.13654826279170215
+epoch_loss--       137         0.14690882858995813
+epoch_loss--       138         0.14649244214589605
+epoch_loss--       139         0.13379715977552029
+epoch_loss--       140         0.1366143688892785
+epoch_loss--       141         0.13467666668037828
+epoch_loss--       142         0.13710244958059856
+epoch_loss--       143         0.13331748205370986
+epoch_loss--       144         0.1382032640206928
+epoch_loss--       145         0.13686742640722294
+epoch_loss--       146         0.13432500265038813
+epoch_loss--       147         0.1350763416566407
+epoch_loss--       148         0.13421771948496564
+epoch_loss--       149         0.137923927578968
+epoch_loss--       150         0.14207588346264424
+epoch_loss--       151         0.1408517689893421
+epoch_loss--       152         0.13460503664974588
+epoch_loss--       153         0.12795649744427431
+epoch_loss--       154         0.13748933024966298
+epoch_loss--       155         0.139580794987968
+epoch_loss--       156         0.1342514863077063
+epoch_loss--       157         0.1393824458693544
+epoch_loss--       158         0.13498455530014664
+epoch_loss--       159         0.13636309401200603
+epoch_loss--       160         0.13159538103273502
+epoch_loss--       161         0.13057724273385712
+epoch_loss--       162         0.14570646488461822
+epoch_loss--       163         0.12474874238046213
+epoch_loss--       164         0.1332590484830994
+epoch_loss--       165         0.1307470085450445
+epoch_loss--       166         0.13542678294637903
+epoch_loss--       167         0.13931098435157405
+epoch_loss--       168         0.13247866054978996
+epoch_loss--       169         0.13672443104985232
+epoch_loss--       170         0.13666328230795388
+epoch_loss--       171         0.13296966405865102
+epoch_loss--       172         0.1347735966927708
+epoch_loss--       173         0.12959912774590449
+epoch_loss--       174         0.13305534268863284
+epoch_loss--       175         0.1300485029864235
+epoch_loss--       176         0.13687821615118378
+epoch_loss--       177         0.1308313619000272
+epoch_loss--       178         0.12878661068935934
+epoch_loss--       179         0.12941895306895906
+epoch_loss--       180         0.13511698343121586
+epoch_loss--       181         0.12646136356714055
+epoch_loss--       182         0.13572055919054218
+epoch_loss--       183         0.13587290128341878
+epoch_loss--       184         0.12475395115157857
+epoch_loss--       185         0.1303621951145486
+epoch_loss--       186         0.13147712556032326
+epoch_loss--       187         0.13297018406394953
+epoch_loss--       188         0.13198638101593374
+epoch_loss--       189         0.1304649853120787
+epoch_loss--       190         0.12556141017439265
+epoch_loss--       191         0.12761055430569967
+epoch_loss--       192         0.1282113092228437
+epoch_loss--       193         0.1304583315508434
+epoch_loss--       194         0.12747765541338502
+epoch_loss--       195         0.1274035117996577
+epoch_loss--       196         0.124838446650785
+epoch_loss--       197         0.12413256317853166
+epoch_loss--       198         0.12596989772952022
+epoch_loss--       199         0.1214964584753917
+epoch_loss--       200         0.12149590608506157
+epoch_loss--       201         0.12089481442785872
+epoch_loss--       202         0.12825638686006252
+epoch_loss--       203         0.12422369459804636
+epoch_loss--       204         0.12884931601941013
+epoch_loss--       205         0.1303771899495357
+epoch_loss--       206         0.12988510281561663
+epoch_loss--       207         0.1215947676366701
+epoch_loss--       208         0.12684047674409116
+epoch_loss--       209         0.11869783385302693
+epoch_loss--       210         0.12100285314285336
+epoch_loss--       211         0.1274762579474967
+epoch_loss--       212         0.12270804175053732
+epoch_loss--       213         0.11490496058766834
+epoch_loss--       214         0.1250941163827531
+epoch_loss--       215         0.13178765290556624
+epoch_loss--       216         0.1263654933581813
+epoch_loss--       217         0.1241682571486924
+epoch_loss--       218         0.1231271431159478
+epoch_loss--       219         0.11587315292570728
+epoch_loss--       220         0.11785020876806765
+epoch_loss--       221         0.12403430693303816
+epoch_loss--       222         0.12359990175968161
+epoch_loss--       223         0.11932347128733088
+epoch_loss--       224         0.12630866066859173
+epoch_loss--       225         0.11528732649053629
+epoch_loss--       226         0.12233486982246938
+epoch_loss--       227         0.12466449179826453
+epoch_loss--       228         0.12384179120246595
+epoch_loss--       229         0.11908453282194968
+epoch_loss--       230         0.11997665338122997
+epoch_loss--       231         0.11329661503124733
+epoch_loss--       232         0.11884556764278549
+epoch_loss--       233         0.11780190616012953
+epoch_loss--       234         0.12502558602573582
+epoch_loss--       235         0.12262029484652293
+epoch_loss--       236         0.1187449541811745
+epoch_loss--       237         0.1230022769730788
+epoch_loss--       238         0.1140388701134882
+epoch_loss--       239         0.12273393370234928
+epoch_loss--       240         0.12234401135755994
+epoch_loss--       241         0.11111399226676161
+epoch_loss--       242         0.1249933850984223
+epoch_loss--       243         0.12045723588440936
+epoch_loss--       244         0.11876447957020979
+epoch_loss--       245         0.11777695238637848
+epoch_loss--       246         0.11651118569813979
+epoch_loss--       247         0.11980097507611631
+epoch_loss--       248         0.11527339505930297
+epoch_loss--       249         0.11293165145900112
+epoch_loss--       250         0.1103295020628185
+epoch_loss--       251         0.11550157575513989
+epoch_loss--       252         0.11411383821251103
+epoch_loss--       253         0.10885754127067308
+epoch_loss--       254         0.11147668761924243
+epoch_loss--       255         0.11327608005878644
+epoch_loss--       256         0.11338624082648525
+epoch_loss--       257         0.11741757483932729
+epoch_loss--       258         0.1169590244646937
+epoch_loss--       259         0.1125440692987305
+epoch_loss--       260         0.11237989354152648
+epoch_loss--       261         0.11506434415166561
+epoch_loss--       262         0.11148743734311181
+epoch_loss--       263         0.11536902908723766
+epoch_loss--       264         0.11874715207864682
+epoch_loss--       265         0.11026448094116423
+epoch_loss--       266         0.11029623344112129
+epoch_loss--       267         0.1153141324595807
+epoch_loss--       268         0.1191964343416329
+epoch_loss--       269         0.11440073371457216
+epoch_loss--       270         0.11134450853513643
+epoch_loss--       271         0.11567835405040473
+epoch_loss--       272         0.1130519868752446
+epoch_loss--       273         0.1101292397934027
+epoch_loss--       274         0.1136031294830691
+epoch_loss--       275         0.11280466800632949
+epoch_loss--       276         0.11077825944073284
+epoch_loss--       277         0.11511526460917042
+epoch_loss--       278         0.10870901564249215
+epoch_loss--       279         0.11253256018097979
+epoch_loss--       280         0.11295342091292429
+epoch_loss--       281         0.11575006953657815
+epoch_loss--       282         0.11168666080402109
+epoch_loss--       283         0.10478857156043997
+epoch_loss--       284         0.11643643686161063
+epoch_loss--       285         0.11322704657388571
+epoch_loss--       286         0.10927915572525022
+epoch_loss--       287         0.11002242553253143
+epoch_loss--       288         0.10915953585038932
+epoch_loss--       289         0.10813491704602973
+epoch_loss--       290         0.11220455683839207
+epoch_loss--       291         0.10979037387326313
+epoch_loss--       292         0.10752386566453849
+epoch_loss--       293         0.11320885214895106
+epoch_loss--       294         0.10753220661927146
+epoch_loss--       295         0.10311322186154108
+epoch_loss--       296         0.11052330975501111
+epoch_loss--       297         0.11160137075871325
+epoch_loss--       298         0.11177253383345688
+epoch_loss--       299         0.11373588979577486
+epoch_loss--       300         0.1103680709394784

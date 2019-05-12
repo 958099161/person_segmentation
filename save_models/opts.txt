@@ -1,0 +1,1 @@
+Namespace(batch_size=16, cuda=True, datadir='./data/', epoch_save=1, fineture=True, iouTrain=True, iouVal=True, lr=0.0003, model='erfnet', model_dir='./save_models/erfnet_3_10_non_big100.pth', num_classes=2, num_epochs=300, num_workers=8, pretrained='./pre_trained/~~~.pth', resume=False, savedir='./save_models/', state=None, steps_loss=5, summary_dir='./summary')

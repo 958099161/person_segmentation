@@ -1,0 +1,8 @@
+pytorh>=0.4.0
+numpy
+cv2
+PIL
+tensorboardX
+opencv-python
+tqdm
+pydensecrf
